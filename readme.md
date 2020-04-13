@@ -13,8 +13,8 @@ _Hope i can **learn** more in this cource!_
 1. Header
 2. Emphasis
 3. List
-   3.1. Task List
-   3.2. Table
+  3.1. Task List
+  3.2. Table
    
 # tasks i done by now <h4>
    
