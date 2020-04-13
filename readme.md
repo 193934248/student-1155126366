@@ -32,3 +32,4 @@ CS | Hard in y2 and very hard in y3 and 4 | very interesting
 IE | Very hard in y2 | very boring
 
 # Screenshot <h4>
+![Screenshot](Screenshot of milestone2.png)
